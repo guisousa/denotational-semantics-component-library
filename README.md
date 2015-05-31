@@ -2,7 +2,7 @@
 
 ## Short Description
 
-This page is a repository for the Haskell implementation of a denotational semantics component library. This implementation is part of a dissertation titled Scalable Denotational Semantics of Imperative Programming Languages which addresses the scalability problem in Denotational Semantics.
+This page is a repository for the Haskell implementation of a denotational semantics component library. This implementation is part of a dissertation titled Scalable Denotational Semantics of Imperative Programming Languages which addresses the scalability problem in Denotational Semantics. The portuguese version of the dissertation text can be found in this repository, as "dissertacao.pdf".
 
 ## Objective
 
