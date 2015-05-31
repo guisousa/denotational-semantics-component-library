@@ -1,4 +1,4 @@
-# Component Based Denotational Semantics =
+# Component Based Denotational Semantics
 
 ## Short Description
 
